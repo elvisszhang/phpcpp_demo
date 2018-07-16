@@ -1,0 +1,2 @@
+<?php
+say_hello();
